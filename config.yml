@@ -1,0 +1,12 @@
+name: CSF407_2025_2022A7PS0207H
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9.21
+  - matplotlib=3.9.4
+  - numpy=2.0.2
+  - scipy=1.13.1
+  - pip
+  - pip:
+    - pgmpy
