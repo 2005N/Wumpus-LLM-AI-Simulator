@@ -1,11 +1,3 @@
-# CSF407_2025_2022A7PS0207H
-AI assignment-1
-### Group Members:
-Nikitha Kolli (2022A7PS0207H)
-Ennam Navya Sri (2022A7PS0001H)
-Thanmai Nimmagadda (2022AAPS0332H)
-G Manvitha (2022A7PS0225H)
-
 ## Overview
 This project implements an integrated simulation environment that combines two classic AI problems:
 
